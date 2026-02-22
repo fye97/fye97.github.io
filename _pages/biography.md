@@ -9,12 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-![UVIC](/images/UVic_hst_4c_cmyk.jpg)
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
 
-![SEU](/images/SEU.png)
+  <a href="https://www.uvic.ca" target="_blank">
+    <img src="/images/UVic_hst_4c_cmyk.jpg"
+         style="height:180px; object-fit:cover;">
+  </a>
 
-![NEU](/images/NEU.png)
+  <a href="https://www.seu.edu.cn" target="_blank">
+    <img src="/images/SEU.png"
+         style="height:180px; object-fit:cover;">
+  </a>
 
+  <a href="https://www.neu.edu.cn" target="_blank">
+    <img src="/images/NEU.png"
+         style="height:180px; object-fit:cover;">
+  </a>
+
+</div>
 
 Work experience
 ------
