@@ -13,17 +13,17 @@ redirect_from:
 
   <a href="https://www.uvic.ca" target="_blank">
     <img src="/images/UVic_hst_4c_cmyk.jpg"
-         style="height:180px; object-fit:cover;">
+         style="height:100px; object-fit:cover;">
   </a>
 
   <a href="https://www.seu.edu.cn" target="_blank">
     <img src="/images/SEU.png"
-         style="height:180px; object-fit:cover;">
+         style="height:100px; object-fit:cover;">
   </a>
 
   <a href="https://www.neu.edu.cn" target="_blank">
     <img src="/images/NEU.png"
-         style="height:180px; object-fit:cover;">
+         style="height:100px; object-fit:cover;">
   </a>
 
 </div>
