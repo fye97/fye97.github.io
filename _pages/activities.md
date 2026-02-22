@@ -22,7 +22,6 @@ Professional Activities
 ------
 * Administrative Editor, _IEEE Transactions on Vehicle Technology_, Jan. 2026 - present
 * Chair, _IEEE Young Professionals Victoria Section_, Jun. 2025 - present
-* President, _UVic Chinese Ph.D. Students and Scholars Association_, Graduate Academics, Jun. 2025 - present
 * Technical Program Committee member, _IEEE MASS 2025_
 * Organization Committee member, _The Youth Scientist Workshop of Chinese Automation Association (Issue 19) and the 23rd Frontier Hot Topics for Automation_, Jan. 2022
 * Organization Committee member, _The 14th “Going to Colleges and Universities” Series Workshop of the Youth Working Committee, Chinese Association of Automation and the 10th Control Theory and Application “Zhishan Frontier Forum” of Southeast University_, Nov. 2020
