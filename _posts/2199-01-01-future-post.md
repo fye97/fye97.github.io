@@ -22,6 +22,7 @@ This post will show up by default. To disable scheduling of future posts, edit `
 而玩灯还有一些特殊的规矩，比如二龙不能相见。有时候两个村的龙灯同时来到某个村玩龙灯，会相互避让。此外还有龙灯在房梁上拿下来就必须要玩、一玩玩三年等说法。早些年的时候，有的村子相互之间甚至因为玩龙灯而打架斗殴，不过近些年已经绝迹。而每年的正月十五，乡里所有的龙灯都会进巨兴大庙集中表演，那才是玩龙灯最闪耀的时刻。
 
 如今在异国他乡过年，街灯很亮，却安静得不像过年。如果等哪一年再回去，也许还能在夜色里听见锣鼓响起。那时我想，我依然会像小时候一样，推开门，循着灯火阑珊又锣鼓喧天的方向走去。
+
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
   <img src="/images/a.jpg" style="width: calc(50% - 6px);">
   <img src="/images/b.jpg" style="width: calc(50% - 6px);">
