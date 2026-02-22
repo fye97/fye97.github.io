@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+![UVIC](/images/UVic_hst_4c_cmyk.jpg)
+![SEU](/images/SEU.png)
+![NEU](/images/NEU.png)
 
 Work experience
 ------
