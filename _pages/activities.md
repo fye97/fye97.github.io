@@ -11,17 +11,12 @@ redirect_from:
 
 
 Awards
-======
+------
 * Southeast University Outstanding Ph.D. Dissertation Award, Southeast University, China, Oct. 2025 (Ranked 1st in the department, top 10% of Graduates)
 * Best Technical Presentation Award, Ubiquitous Intelligence Student Poster Competition, IEEE Victoria Section, Canada, Dec. 2024
 * People’s Choice Award, _Workshop on Future Ubiquitous Networks 2023 - Spring_, IEEE Victoria Section Joint VTS/ComSoc Chapter, Canada, May 2023
 * Meritorious Winner Award, _Mathematical Contest in Modeling_, the Consortium for Mathematics and Its Applications, USA, Apr. 2018 
 
-
-
-
-Service and leadership
-======
 
 Professional Activities
 ------
