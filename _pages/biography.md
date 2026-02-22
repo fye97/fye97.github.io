@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-{% include figure image_path="/images/UVic_hst_4c_cmyk.jpg" caption="UVic" height="300px" %}
+{% include figure image_path="/images/UVic_hst_4c_cmyk.jpg" caption="UVic" height="100px" %}
 
-{% include figure image_path="/images/SEU.png" caption="SEU" height="300px" %}
+{% include figure image_path="/images/SEU.png" caption="SEU" height="100px" %}
 
-{% include figure image_path="/images/NEU.png" caption="NEU" height="300px" %}
+{% include figure image_path="/images/NEU.png" caption="NEU" height="100px" %}
 
 Work experience
 ------
