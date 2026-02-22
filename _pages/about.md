@@ -14,8 +14,8 @@ I’m an Post-Doctoral Fellow at the Department of Electrical & Computer Enginee
 ======
 * **2025.10**: &nbsp;🎉🎉 My Ph.D. dissertation won Southeast University Outstanding Ph.D. Dissertation Award (Ranked first in the department)!
 * **2025.06**: I'm starting serving as the Chair of the IEEE Young Professionals Victoria Section Affinity Group!
-* **2025.03**: &nbsp;🎉🎉 Our paper was accepted by Automatica as a Regular Paper, a prestigious journal in automatic control!
+* **2025.03**: &nbsp;🎉🎉 Our paper was accepted by _Automatica_ as a **egular Paper**, a prestigious journal in automatic control!
 * **2024.09**: Excited to start my postdoc at UVic.
 * **2024.06**: &nbsp;🎉🎉 Thrilled to receive my Ph.D. degree from SEU. Deeply appreciate the acknowledgement!
 * **2024.04**: Thrilled to pass my Ph.D. Defense.
-* **2024.02**: One paper was accepted by IEEE Transactions on Information Theory, a prestigious journal in information theory.
+* **2024.02**: One paper was accepted by _IEEE Transactions on Information Theory_, a prestigious journal in information theory.
