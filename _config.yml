@@ -10,7 +10,7 @@
 locale                   : "en-CA"
 title                    : "Feng Ye"
 title_separator          : "-"
-name                     : &name "Feng Ye"
+name                     : &name "Feng Ye 叶枫"
 description              : &description "personal description"
 url                      : https://fye97.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-8949-7089"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Feng-Ye-27
   scopus           : # URL
 
   # Repositories and software development
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : feng-ye-2892031ab
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
