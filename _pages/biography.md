@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-![UVIC](/images/UVic_hst_4c_cmyk.jpg)
-![SEU](/images/SEU.png)
-![NEU](/images/NEU.png)
+
+{% include figure image_path="/images/UVic_hst_4c_cmyk.jpg" caption="My lab group" %}
+{% include figure image_path="/images/SEU.png" caption="My lab group" %}
+{% include figure image_path="/images/NEU.png" caption="My lab group" %}
 
 Work experience
 ------
