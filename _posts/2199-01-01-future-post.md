@@ -7,9 +7,9 @@ tags:
   - 民俗
 ---
 
-{% 
+{% comment %}
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
-%}
+{% endcomment %}
 
 又是一年春节，看到网上许多玩龙灯的视频，我不由得又想起了故乡的龙灯。
 
