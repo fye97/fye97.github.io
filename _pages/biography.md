@@ -11,7 +11,9 @@ redirect_from:
 
 
 {% include figure image_path="/images/UVic_hst_4c_cmyk.jpg" caption="My lab group" %}
+
 {% include figure image_path="/images/SEU.png" caption="My lab group" %}
+
 {% include figure image_path="/images/NEU.png" caption="My lab group" %}
 
 Work experience
