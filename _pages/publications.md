@@ -13,6 +13,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Journal Papers
 ------
+* `Auto 2025` **F. Ye**, X. Cao, L. Cai, and M. -Y. Chow, “[False Noise Attack Detection for Differentially-Private Distributed Control of Microgrids](https://www.sciencedirect.com/science/article/abs/pii/S000510982500281X),” Automatica, vol. 179, 2025, Art. no. 112387. (Regular Paper)
+
 * `TIT 2024` **F. Ye**, X. Cao, M.-Y. Chow, and L. Cai, “[Privacy-Preserving Average Consensus: Fundamental Analysis and a Generic Framework Design](https://ieeexplore.ieee.org/document/10445335),” _IEEE Transactions on Information Theory_, 70, no. 4, pp. 2870-2885, 2024.
 * `TSG 2023` **F. Ye**, X. Cao, Z. Cheng, and M.-Y. Chow, “[CASL: A Novel Collusion Attack Against Distributed Energy Management Systems](https://ieeexplore.ieee.org/abstract/document/10057447),” _IEEE Transactions on Smart Grid_, vol. 14, no. 6, pp. 4717-4728, 2023.
 * `TIFS 2021` **F. Ye**, Z. Cheng, X. Cao, and M.-Y. Chow, “[A Random-Weight Privacy-Preserving Algorithm With Error Compensation for Microgrid Distributed Energy Management](https://ieeexplore.ieee.org/document/9517116/),” _IEEE Transactions on Information Forensics and Security_, vol. 16, pp. 4352-4362, 2021.
