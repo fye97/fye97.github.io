@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-title                    : "Welcome to Feng Ye's Homepage"
+title                    : "Feng Ye"
 title_separator          : "-"
-name                     : &name "Feng Ye"
+name                     : &name "Feng Ye 叶枫"
 description              : &description "personal description"
 url                      : https://fye97.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
