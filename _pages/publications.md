@@ -11,6 +11,10 @@ redirect_from:
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=uBZbqDsAAAAJ&hl=en).
 
+Books
+------
+* X. Cao, **F. Ye**, and K. Gui, System Identification Theory and Practice, _China Machine Press_, expected publication in 2026.
+
 Journal Papers
 ------
 * `Auto 2025` **F. Ye**, X. Cao, L. Cai, and M. -Y. Chow, “[False Noise Attack Detection for Differentially-Private Distributed Control of Microgrids](https://www.sciencedirect.com/science/article/abs/pii/S000510982500281X),” Automatica, vol. 179, 2025, Art. no. 112387. (Regular Paper)
