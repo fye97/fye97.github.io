@@ -30,8 +30,7 @@ redirect_from:
 
 Work experience
 ------
-* `Sept. 2024 – Present` **Post-Doctoral Fellow**
-  * Department of Electrical and Computer Engineering, [University of Victoria](https://www.uvic.ca/), Victoria, Canada
+* `Sept. 2024 – Present` **Post-Doctoral Fellow**, Department of Electrical and Computer Engineering, [University of Victoria](https://www.uvic.ca/), Victoria, Canada
   * Supervisor: Prof. Lin Cai
   * [Communication and Networking Lab (CNLab)](https://oac.uvic.ca/cnlab/)
   
