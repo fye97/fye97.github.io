@@ -14,7 +14,7 @@ Research Interests
 * Control and Security in Cyber-Physical Systems
 * Privacy-Preserving Control Systems
 * Security of Networked Control Systems
-* Collaborative Control of Multi-Agent Systems
+* Joint Design of Communication and Control in Multi-Agent Systems
 
 
 
