@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-title                    : "Feng Ye 叶枫"
+title                    : "Feng Ye"
 title_separator          : "-"
 name                     : &name "Feng Ye"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "fye97.github.io"
 author:
   # Biographic information
   avatar           : "photo_yef.png"
-  name             : "Feng Ye"
+  name             : "Feng Ye 叶枫"
   pronouns         : "he/his"  
   bio              : "Post-Doctoral Fellow, Ph.D., IEEE Member"
   location         : "Victoria, BC, Canada"
