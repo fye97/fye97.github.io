@@ -9,6 +9,14 @@ redirect_from:
 
 I’m an Post-Doctoral Fellow at the [Communication and Networking Lab (CNLab)](https://oac.uvic.ca/cnlab/), Department of Electrical & Computer Engineering, [University of Victoria](https://www.uvic.ca/) (UVic), with Prof. [Lin Cai](https://www.ece.uvic.ca/~cai/). I received my Ph.D. degree from Southeast University (SEU), Nanjing, China, in June 2024. During 2022–2023, I was a research assistant at the University of Victoria, Canada. My current research areas include cyber-physical systems, networked/distributed control systems, with a special focus on the security and privacy issues. I’m a Member of IEEE.
 
+Research Interests
+======
+* Control and Security in Cyber-Physical Systems
+* Privacy-Preserving Control Systems
+* Security of Networked Control Systems
+* Collaborative Control of Multi-Agent Systems
+
+
 
 🔥 News
 ======
