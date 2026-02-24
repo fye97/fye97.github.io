@@ -20,7 +20,7 @@ Awards
 
 Professional Activities
 ------
-* Administrative Editor, _IEEE Transactions on Vehicle Technology_, Jan. 2026 - present
+* [Administrative Editor](https://vtsociety.org/contact/feng-ye-0), _IEEE Transactions on Vehicle Technology_, Jan. 2026 - present
 * Chair, _IEEE Young Professionals Victoria Section_, Jun. 2025 - present
 * Technical Program Committee member, _IEEE MASS 2025_
 * Organization Committee member, _The Youth Scientist Workshop of Chinese Automation Association (Issue 19) and the 23rd Frontier Hot Topics for Automation_, Jan. 2022
